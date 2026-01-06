@@ -5,4 +5,4 @@ dist
 .env
 Dockerfile
 .dockerignore
-nginx.conf
+--nginx.conf
