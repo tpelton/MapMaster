@@ -10,7 +10,7 @@ COPY . .
 
 # Accept build argument for API key
 ARG GEMINI_API_KEY
-ENV GEMINI_API_KEY=$GEMINI_API_KEY
+ENV VITE_GEMINI_API_KEY=$GEMINI_API_KEY
 
 RUN npm run build
 
