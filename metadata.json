@@ -1,0 +1,8 @@
+
+{
+  "name": "Task Master 2000",
+  "description": "An advanced project and task management application that extracts tasks from architectural PDF maps using AI-powered OCR mapping, allowing for automated sub-task generation based on customizable legend templates.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
